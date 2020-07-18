@@ -1,0 +1,19 @@
+[
+    { "id": 1, "name": "Dominion", "icon": "/assets/icons/expansion_dominion.png" },
+    { "id": 2, "name": "Dominion Second Edition", "icon": "/assets/icons/expansion_dominion.png" },
+    { "id": 3, "name": "Intrigue", "icon": "/assets/icons/expansion_intrigue.png" },
+    { "id": 4, "name": "Intrigue Second Edition", "icon": "/assets/icons/expansion_intrigue.png" },
+    { "id": 5, "name": "Seaside", "icon": "/assets/icons/expansion_seaside.png" },
+    { "id": 6, "name": "Alchemy", "icon": "/assets/icons/expansion_alchemy.png" },
+    { "id": 7, "name": "Prosperity", "icon": "/assets/icons/expansion_prosperity.png" },
+    { "id": 8, "name": "Cornucopia", "icon": "/assets/icons/expansion_cornucopia.png" },
+    { "id": 9, "name": "Hinterlands", "icon": "/assets/icons/expansion_hinterlands.png" },
+    { "id": 10, "name": "Dark Ages", "icon": "/assets/icons/expansion_dark_ages.png" },
+    { "id": 11, "name": "Guilds", "icon": "/assets/icons/expansion_guilds.png" },
+    { "id": 12, "name": "Adventures", "icon": "/assets/icons/expansion_adventures.png" },
+    { "id": 13, "name": "Empires", "icon": "/assets/icons/expansion_empires.png" },
+    { "id": 14, "name": "Nocturne", "icon": "/assets/icons/expansion_nocturne.png" },
+    { "id": 15, "name": "Renaissance", "icon": "/assets/icons/expansion_renaissance.png" },
+    { "id": 16, "name": "Menagerie", "icon": "/assets/icons/expansion_menagerie.png" },
+    { "id": 99, "name": "Promo", "icon": "/assets/icons/expansion_promo.png" }
+]

@@ -1,0 +1,4474 @@
+[
+    {
+        "id": 1,
+        "name": "Alms",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 2,
+        "name": "Amulet",
+        "expansions": [12],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 3,
+        "name": "Artificer",
+        "expansions": [12],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 4,
+        "name": "Ball",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 5,
+        "name": "Bonfire",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 6,
+        "name": "Borrow",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 7,
+        "name": "Bridge Troll",
+        "expansions": [12],
+        "types": [1, 3, 8],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 8,
+        "name": "Caravan Guard",
+        "expansions": [12],
+        "types": [1, 8, 20],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 9,
+        "name": "Champion",
+        "expansions": [12],
+        "types": [1, 8],
+        "isKingdomCard": false,
+        "cost": 6
+    },
+    {
+        "id": 10,
+        "name": "Coin of the Realm",
+        "expansions": [12],
+        "types": [27, 21],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 11,
+        "name": "Disciple",
+        "expansions": [12],
+        "types": [1, 26],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 12,
+        "name": "Distant Lands",
+        "expansions": [12],
+        "types": [1, 21, 28],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 13,
+        "name": "Dungeon",
+        "expansions": [12],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 14,
+        "name": "Duplicate",
+        "expansions": [12],
+        "types": [1, 21],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 15,
+        "name": "Expedition",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 16,
+        "name": "Ferry",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 17,
+        "name": "Fugitive",
+        "expansions": [12],
+        "types": [1, 26],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 18,
+        "name": "Gear",
+        "expansions": [12],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 19,
+        "name": "Giant",
+        "expansions": [12],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 20,
+        "name": "Guide",
+        "expansions": [12],
+        "types": [1, 21],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 21,
+        "name": "Haunted Woods",
+        "expansions": [12],
+        "types": [1, 3, 8],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 22,
+        "name": "Hero",
+        "expansions": [12],
+        "types": [1, 26],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 23,
+        "name": "Hireling",
+        "expansions": [12],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 24,
+        "name": "Inheritance",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 7
+    },
+    {
+        "id": 25,
+        "name": "Lost Arts",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 6
+    },
+    {
+        "id": 26,
+        "name": "Lost City",
+        "expansions": [12],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 27,
+        "name": "Magpie",
+        "expansions": [12],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 28,
+        "name": "Messenger",
+        "expansions": [12],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 29,
+        "name": "Miser",
+        "expansions": [12],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 30,
+        "name": "Mission",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 31,
+        "name": "Page",
+        "expansions": [12],
+        "types": [1, 26],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 32,
+        "name": "Pathfinding",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 8
+    },
+    {
+        "id": 33,
+        "name": "Peasant",
+        "expansions": [12],
+        "types": [1, 26],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 34,
+        "name": "Pilgrimage",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 35,
+        "name": "Plan",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 36,
+        "name": "Port",
+        "expansions": [12],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 37,
+        "name": "Quest",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 38,
+        "name": "Raid",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 39,
+        "name": "Ranger",
+        "expansions": [12],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 40,
+        "name": "Ratcatcher",
+        "expansions": [12],
+        "types": [1, 21],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 41,
+        "name": "Raze",
+        "expansions": [12],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 42,
+        "name": "Relic",
+        "expansions": [12],
+        "types": [27, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 43,
+        "name": "Royal Carriage",
+        "expansions": [12],
+        "types": [1, 21],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 44,
+        "name": "Save",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 1
+    },
+    {
+        "id": 45,
+        "name": "Scouting Party",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 2
+    },
+    {
+        "id": 46,
+        "name": "Seaway",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 47,
+        "name": "Soldier",
+        "expansions": [12],
+        "types": [1, 3, 26],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 48,
+        "name": "Storyteller",
+        "expansions": [12],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 49,
+        "name": "Swamp Hag",
+        "expansions": [12],
+        "types": [1, 3, 8],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 50,
+        "name": "Teacher",
+        "expansions": [12],
+        "types": [1, 21],
+        "isKingdomCard": false,
+        "cost": 6
+    },
+    {
+        "id": 51,
+        "name": "Trade",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 52,
+        "name": "Training",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 6
+    },
+    {
+        "id": 53,
+        "name": "Transmogrify",
+        "expansions": [12],
+        "types": [1, 21],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 54,
+        "name": "Travelling Fair",
+        "expansions": [12],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 2
+    },
+    {
+        "id": 55,
+        "name": "Treasure Hunter",
+        "expansions": [12],
+        "types": [1, 26],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 56,
+        "name": "Treasure Trove",
+        "expansions": [12],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 57,
+        "name": "Warrior",
+        "expansions": [12],
+        "types": [1, 3, 26],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 58,
+        "name": "Wine Merchant",
+        "expansions": [12],
+        "types": [1, 21],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 59,
+        "name": "Alchemist",
+        "expansions": [6],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3,
+        "potion": true
+    },
+    {
+        "id": 60,
+        "name": "Apothecary",
+        "expansions": [6],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2,
+        "potion": true
+    },
+    {
+        "id": 61,
+        "name": "Apprentice",
+        "expansions": [6],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 62,
+        "name": "Familiar",
+        "expansions": [6],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 3,
+        "potion": true
+    },
+    {
+        "id": 63,
+        "name": "Golem",
+        "expansions": [6],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4,
+        "potion": true
+    },
+    {
+        "id": 64,
+        "name": "Herbalist",
+        "expansions": [6],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 65,
+        "name": "Philosopher's Stone",
+        "expansions": [6],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 3,
+        "potion": true
+    },
+    {
+        "id": 66,
+        "name": "Possession",
+        "expansions": [6],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 6,
+        "potion": true
+    },
+    {
+        "id": 67,
+        "name": "Scrying Pool",
+        "expansions": [6],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 2,
+        "potion": true
+    },
+    {
+        "id": 68,
+        "name": "Transmute",
+        "expansions": [6],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 0,
+        "potion": true
+    },
+    {
+        "id": 69,
+        "name": "University",
+        "expansions": [6],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2,
+        "potion": true
+    },
+    {
+        "id": 70,
+        "name": "Vineyard",
+        "expansions": [6],
+        "types": [28],
+        "isKingdomCard": true,
+        "cost": 0,
+        "potion": true
+    },
+    {
+        "id": 71,
+        "name": "Bag of Gold",
+        "expansions": [8],
+        "types": [1, 18],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 72,
+        "name": "Diadem",
+        "expansions": [8],
+        "types": [27, 18],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 73,
+        "name": "Fairgrounds",
+        "expansions": [8],
+        "types": [28],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 74,
+        "name": "Farming Village",
+        "expansions": [8],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 75,
+        "name": "Followers",
+        "expansions": [8],
+        "types": [1, 3, 18],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 76,
+        "name": "Fortune Teller",
+        "expansions": [8],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 77,
+        "name": "Hamlet",
+        "expansions": [8],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 78,
+        "name": "Harvest",
+        "expansions": [8],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 79,
+        "name": "Horn of Plenty",
+        "expansions": [8],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 80,
+        "name": "Horse Traders",
+        "expansions": [8],
+        "types": [1, 20],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 81,
+        "name": "Hunting Party",
+        "expansions": [8],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 82,
+        "name": "Jester",
+        "expansions": [8],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 83,
+        "name": "Menagerie",
+        "expansions": [8],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 84,
+        "name": "Princess",
+        "expansions": [8],
+        "types": [1, 18],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 85,
+        "name": "Remake",
+        "expansions": [8],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 86,
+        "name": "Tournament",
+        "expansions": [8],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 87,
+        "name": "Trusty Steed",
+        "expansions": [8],
+        "types": [1, 18],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 88,
+        "name": "Young Witch",
+        "expansions": [8],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 89,
+        "name": "Altar",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 90,
+        "name": "Armory",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 91,
+        "name": "Band of Misfits",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 92,
+        "name": "Bandit Camp",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 93,
+        "name": "Beggar",
+        "expansions": [10],
+        "types": [1, 20],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 94,
+        "name": "Catacombs",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 95,
+        "name": "Count",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 96,
+        "name": "Counterfeit",
+        "expansions": [10],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 97,
+        "name": "Cultist",
+        "expansions": [10],
+        "types": [1, 3, 16],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 98,
+        "name": "Death Cart",
+        "expansions": [10],
+        "types": [1, 16],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 99,
+        "name": "Feodum",
+        "expansions": [10],
+        "types": [28],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 100,
+        "name": "Forager",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 101,
+        "name": "Fortress",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 102,
+        "name": "Graverobber",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 103,
+        "name": "Hermit",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 104,
+        "name": "Hovel",
+        "expansions": [10],
+        "types": [20, 23],
+        "isKingdomCard": false,
+        "cost": 1
+    },
+    {
+        "id": 105,
+        "name": "Hunting Grounds",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 106,
+        "name": "Ironmonger",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 107,
+        "name": "Junk Dealer",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 108,
+        "name": "Knights",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 109,
+        "name": "Madman",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 110,
+        "name": "Marauder",
+        "expansions": [10],
+        "types": [1, 3, 16],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 111,
+        "name": "Market Square",
+        "expansions": [10],
+        "types": [1, 20],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 112,
+        "name": "Mercenary",
+        "expansions": [10],
+        "types": [1, 3],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 113,
+        "name": "Mystic",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 114,
+        "name": "Necropolis",
+        "expansions": [10],
+        "types": [1, 23],
+        "isKingdomCard": false,
+        "cost": 1
+    },
+    {
+        "id": 115,
+        "name": "Overgrown Estate",
+        "expansions": [10],
+        "types": [28, 23],
+        "isKingdomCard": false,
+        "cost": 1
+    },
+    {
+        "id": 116,
+        "name": "Pillage",
+        "expansions": [10],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 117,
+        "name": "Poor House",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 1
+    },
+    {
+        "id": 118,
+        "name": "Procession",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 119,
+        "name": "Rats",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 120,
+        "name": "Rebuild",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 121,
+        "name": "Rogue",
+        "expansions": [10],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 122,
+        "name": "Ruins",
+        "expansions": [10],
+        "types": [1, 22],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 123,
+        "name": "Sage",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 124,
+        "name": "Scavenger",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 125,
+        "name": "Spoils",
+        "expansions": [10],
+        "types": [27],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 126,
+        "name": "Squire",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 127,
+        "name": "Storeroom",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 128,
+        "name": "Urchin",
+        "expansions": [10],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 129,
+        "name": "Vagrant",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 130,
+        "name": "Wandering Minstrel",
+        "expansions": [10],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 131,
+        "name": "Adventurer",
+        "expansions": [1],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 132,
+        "name": "Chancellor",
+        "expansions": [1],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 133,
+        "name": "Feast",
+        "expansions": [1],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 134,
+        "name": "Spy",
+        "expansions": [1],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 135,
+        "name": "Thief",
+        "expansions": [1],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 136,
+        "name": "Woodcutter",
+        "expansions": [1],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 137,
+        "name": "Bureaucrat",
+        "expansions": [1, 2],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 138,
+        "name": "Cellar",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 139,
+        "name": "Chapel",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 140,
+        "name": "Council Room",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 141,
+        "name": "Festival",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 142,
+        "name": "Gardens",
+        "expansions": [1, 2],
+        "types": [28],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 143,
+        "name": "Laboratory",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 144,
+        "name": "Library",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 145,
+        "name": "Market",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 146,
+        "name": "Militia",
+        "expansions": [1, 2],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 147,
+        "name": "Mine",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 148,
+        "name": "Moat",
+        "expansions": [1, 2],
+        "types": [1, 20],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 149,
+        "name": "Moneylender",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 150,
+        "name": "Remodel",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 151,
+        "name": "Smithy",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 152,
+        "name": "Throne Room",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 153,
+        "name": "Village",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 154,
+        "name": "Witch",
+        "expansions": [1, 2],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 155,
+        "name": "Workshop",
+        "expansions": [1, 2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 156,
+        "name": "Artisan",
+        "expansions": [2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 157,
+        "name": "Bandit",
+        "expansions": [2],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 158,
+        "name": "Harbinger",
+        "expansions": [2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 159,
+        "name": "Merchant",
+        "expansions": [2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 160,
+        "name": "Poacher",
+        "expansions": [2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 161,
+        "name": "Sentry",
+        "expansions": [2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 162,
+        "name": "Vassal",
+        "expansions": [2],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 163,
+        "name": "Advance",
+        "expansions": [13],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 164,
+        "name": "Annex",
+        "expansions": [13],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 0,
+        "debt": 8
+    },
+    {
+        "id": 165,
+        "name": "Aqueduct",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 166,
+        "name": "Archive",
+        "expansions": [13],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 167,
+        "name": "Arena",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 168,
+        "name": "Bandit Fort",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 169,
+        "name": "Banquet",
+        "expansions": [13],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 170,
+        "name": "Basilica",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 171,
+        "name": "Baths",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 172,
+        "name": "Battlefield",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 173,
+        "name": "Bustling Village",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "isPartOfSplitPile": true,
+        "cost": 5
+    },
+    {
+        "id": 174,
+        "name": "Capital",
+        "expansions": [13],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 175,
+        "name": "Castles",
+        "expansions": [13],
+        "types": [28, 5],
+        "isKingdomCard": true,
+        "isPartOfSplitPile": true,
+        "isOnTopOfSplitPile": true,
+        "cost": 3
+    },
+    {
+        "id": 176,
+        "name": "Catapult",
+        "expansions": [13],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "isPartOfSplitPile": true,
+        "isOnTopOfSplitPile": true,
+        "cost": 3
+    },
+    {
+        "id": 177,
+        "name": "Chariot Race",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 178,
+        "name": "Charm",
+        "expansions": [13],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 179,
+        "name": "City Quarter",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 0,
+        "debt": 8
+    },
+    {
+        "id": 180,
+        "name": "Colonnade",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 181,
+        "name": "Conquest",
+        "expansions": [13],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 6
+    },
+    {
+        "id": 182,
+        "name": "Crown",
+        "expansions": [13],
+        "types": [1, 27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 183,
+        "name": "Defiled Shrine",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 184,
+        "name": "Delve",
+        "expansions": [13],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 2
+    },
+    {
+        "id": 185,
+        "name": "Dominate",
+        "expansions": [13],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 14
+    },
+    {
+        "id": 186,
+        "name": "Donate",
+        "expansions": [13],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 0,
+        "debt": 8
+    },
+    {
+        "id": 187,
+        "name": "Emporium",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "isPartOfSplitPile": true,
+        "cost": 5
+    },
+    {
+        "id": 188,
+        "name": "Encampment",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "isPartOfSplitPile": true,
+        "isOnTopOfSplitPile": true,
+        "cost": 2
+    },
+    {
+        "id": 189,
+        "name": "Enchantress",
+        "expansions": [13],
+        "types": [1, 3, 8],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 190,
+        "name": "Engineer",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 0,
+        "debt": 4
+    },
+    {
+        "id": 191,
+        "name": "Farmers' Market",
+        "expansions": [13],
+        "types": [1, 11],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 192,
+        "name": "Fortune",
+        "expansions": [13],
+        "types": [27],
+        "isKingdomCard": true,
+        "isPartOfSplitPile": true,
+        "cost": 8,
+        "debt": 8
+    },
+    {
+        "id": 193,
+        "name": "Forum",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 194,
+        "name": "Fountain",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 195,
+        "name": "Gladiator",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "isPartOfSplitPile": true,
+        "isOnTopOfSplitPile": true,
+        "cost": 3
+    },
+    {
+        "id": 196,
+        "name": "Groundskeeper",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 197,
+        "name": "Keep",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 198,
+        "name": "Labyrinth",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 199,
+        "name": "Legionary",
+        "expansions": [13],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 200,
+        "name": "Mountain Pass",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 201,
+        "name": "Museum",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 202,
+        "name": "Obelisk",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 203,
+        "name": "Orchard",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 204,
+        "name": "Overlord",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 0,
+        "debt": 8
+    },
+    {
+        "id": 205,
+        "name": "Palace",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 206,
+        "name": "Patrician",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "isPartOfSplitPile": true,
+        "isOnTopOfSplitPile": true,
+        "cost": 2
+    },
+    {
+        "id": 207,
+        "name": "Plunder",
+        "expansions": [13],
+        "types": [27],
+        "isKingdomCard": true,
+        "isPartOfSplitPile": true,
+        "cost": 5
+    },
+    {
+        "id": 208,
+        "name": "Ritual",
+        "expansions": [13],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 209,
+        "name": "Rocks",
+        "expansions": [13],
+        "types": [27],
+        "isKingdomCard": true,
+        "isPartOfSplitPile": true,
+        "cost": 4
+    },
+    {
+        "id": 210,
+        "name": "Royal Blacksmith",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 0,
+        "debt": 8
+    },
+    {
+        "id": 211,
+        "name": "Sacrifice",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 212,
+        "name": "Salt the Earth",
+        "expansions": [13],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 213,
+        "name": "Settlers",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "isPartOfSplitPile": true,
+        "isOnTopOfSplitPile": true,
+        "cost": 2
+    },
+    {
+        "id": 214,
+        "name": "Tax",
+        "expansions": [13],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 2
+    },
+    {
+        "id": 215,
+        "name": "Temple",
+        "expansions": [13],
+        "types": [1, 11],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 216,
+        "name": "Tomb",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 217,
+        "name": "Tower",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 218,
+        "name": "Triumph",
+        "expansions": [13],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 0,
+        "debt": 5
+    },
+    {
+        "id": 219,
+        "name": "Triumphal Arch",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 220,
+        "name": "Villa",
+        "expansions": [13],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 221,
+        "name": "Wall",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 222,
+        "name": "Wedding",
+        "expansions": [13],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 4,
+        "debt": 3
+    },
+    {
+        "id": 223,
+        "name": "Wild Hunt",
+        "expansions": [13],
+        "types": [1, 11],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 224,
+        "name": "Windfall",
+        "expansions": [13],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 225,
+        "name": "Wolf Den",
+        "expansions": [13],
+        "types": [15],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 226,
+        "name": "Advisor",
+        "expansions": [11],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 227,
+        "name": "Baker",
+        "expansions": [11],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 228,
+        "name": "Butcher",
+        "expansions": [11],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 229,
+        "name": "Candlestick Maker",
+        "expansions": [11],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 230,
+        "name": "Doctor",
+        "expansions": [11],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 231,
+        "name": "Herald",
+        "expansions": [11],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 232,
+        "name": "Journeyman",
+        "expansions": [11],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 233,
+        "name": "Masterpiece",
+        "expansions": [11],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 234,
+        "name": "Merchant Guild",
+        "expansions": [11],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 235,
+        "name": "Plaza",
+        "expansions": [11],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 236,
+        "name": "Soothsayer",
+        "expansions": [11],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 237,
+        "name": "Stonemason",
+        "expansions": [11],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 238,
+        "name": "Taxman",
+        "expansions": [11],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 239,
+        "name": "Border Village",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 240,
+        "name": "Cache",
+        "expansions": [9],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 241,
+        "name": "Cartographer",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 242,
+        "name": "Crossroads",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 243,
+        "name": "Develop",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 244,
+        "name": "Duchess",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 245,
+        "name": "Embassy",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 246,
+        "name": "Farmland",
+        "expansions": [9],
+        "types": [28],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 247,
+        "name": "Fool's Gold",
+        "expansions": [9],
+        "types": [27, 20],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 248,
+        "name": "Haggler",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 249,
+        "name": "Highway",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 250,
+        "name": "Ill-Gotten Gains",
+        "expansions": [9],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    { "id": 251, "name": "Inn", "expansions": [9], "types": [1], "isKingdomCard": true, "cost": 5 },
+    {
+        "id": 252,
+        "name": "Jack of all Trades",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 253,
+        "name": "Mandarin",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 254,
+        "name": "Margrave",
+        "expansions": [9],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 255,
+        "name": "Noble Brigand",
+        "expansions": [9],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 256,
+        "name": "Nomad Camp",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 257,
+        "name": "Oasis",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 258,
+        "name": "Oracle",
+        "expansions": [9],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 259,
+        "name": "Scheme",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 260,
+        "name": "Silk Road",
+        "expansions": [9],
+        "types": [28],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 261,
+        "name": "Spice Merchant",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 262,
+        "name": "Stables",
+        "expansions": [9],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 263,
+        "name": "Trader",
+        "expansions": [9],
+        "types": [1, 20],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 264,
+        "name": "Tunnel",
+        "expansions": [9],
+        "types": [28, 20],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 265,
+        "name": "Coppersmith",
+        "expansions": [3],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 266,
+        "name": "Great Hall",
+        "expansions": [3],
+        "types": [1, 28],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 267,
+        "name": "Saboteur",
+        "expansions": [3],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 268,
+        "name": "Scout",
+        "expansions": [3],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 269,
+        "name": "Secret Chamber",
+        "expansions": [3],
+        "types": [1, 20],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 270,
+        "name": "Tribute",
+        "expansions": [3],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 271,
+        "name": "Baron",
+        "expansions": [3, 4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 272,
+        "name": "Bridge",
+        "expansions": [3, 4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 273,
+        "name": "Conspirator",
+        "expansions": [3, 4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 274,
+        "name": "Courtyard",
+        "expansions": [3, 4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 275,
+        "name": "Duke",
+        "expansions": [3, 4],
+        "types": [28],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 276,
+        "name": "Harem",
+        "expansions": [3, 4],
+        "types": [27, 28],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 277,
+        "name": "Ironworks",
+        "expansions": [3, 4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 278,
+        "name": "Masquerade",
+        "expansions": [3, 4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 279,
+        "name": "Mining Village",
+        "expansions": [3, 4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 280,
+        "name": "Minion",
+        "expansions": [3, 4],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 281,
+        "name": "Nobles",
+        "expansions": [3, 4],
+        "types": [1, 28],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 282,
+        "name": "Pawn",
+        "expansions": [3, 4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 283,
+        "name": "Shanty Town",
+        "expansions": [3, 4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 284,
+        "name": "Steward",
+        "expansions": [3, 4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 285,
+        "name": "Swindler",
+        "expansions": [3, 4],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 286,
+        "name": "Torturer",
+        "expansions": [3, 4],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 287,
+        "name": "Trading Post",
+        "expansions": [3, 4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 288,
+        "name": "Upgrade",
+        "expansions": [3, 4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 289,
+        "name": "Wishing Well",
+        "expansions": [3, 4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 290,
+        "name": "Courtier",
+        "expansions": [4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 291,
+        "name": "Diplomat",
+        "expansions": [4],
+        "types": [1, 20],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 292,
+        "name": "Lurker",
+        "expansions": [4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 293,
+        "name": "Mill",
+        "expansions": [4],
+        "types": [1, 28],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 294,
+        "name": "Patrol",
+        "expansions": [4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 295,
+        "name": "Replace",
+        "expansions": [4],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 296,
+        "name": "Secret Passage",
+        "expansions": [4],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 297,
+        "name": "Bad Omens",
+        "expansions": [14],
+        "types": [13],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 298,
+        "name": "Bard",
+        "expansions": [14],
+        "types": [1, 10],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 299,
+        "name": "Bat",
+        "expansions": [14],
+        "types": [17],
+        "isKingdomCard": false,
+        "cost": 2
+    },
+    {
+        "id": 300,
+        "name": "Blessed Village",
+        "expansions": [14],
+        "types": [1, 10],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 301,
+        "name": "Cemetery",
+        "expansions": [14],
+        "types": [28],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 302,
+        "name": "Changeling",
+        "expansions": [14],
+        "types": [17],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 303,
+        "name": "Cobbler",
+        "expansions": [14],
+        "types": [17, 8],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 304,
+        "name": "Conclave",
+        "expansions": [14],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 305,
+        "name": "Crypt",
+        "expansions": [14],
+        "types": [17, 8],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 306,
+        "name": "Cursed Gold",
+        "expansions": [14],
+        "types": [27, 12],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 307,
+        "name": "Cursed Village",
+        "expansions": [14],
+        "types": [1, 7],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 308,
+        "name": "Delusion",
+        "expansions": [14],
+        "types": [13],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 309,
+        "name": "Den of Sin",
+        "expansions": [14],
+        "types": [17, 8],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 310,
+        "name": "Devil's Workshop",
+        "expansions": [14],
+        "types": [17],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 311,
+        "name": "Druid",
+        "expansions": [14],
+        "types": [1, 10],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 312,
+        "name": "Envious - Deluded",
+        "expansions": [14],
+        "types": [25],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 313,
+        "name": "Envy",
+        "expansions": [14],
+        "types": [13],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 314,
+        "name": "Exorcist",
+        "expansions": [14],
+        "types": [17],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 315,
+        "name": "Faithful Hound",
+        "expansions": [14],
+        "types": [1, 20],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 316,
+        "name": "Famine",
+        "expansions": [14],
+        "types": [13],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 317,
+        "name": "Fear",
+        "expansions": [14],
+        "types": [13],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 318,
+        "name": "Fool",
+        "expansions": [14],
+        "types": [1, 10],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 319,
+        "name": "Ghost",
+        "expansions": [14],
+        "types": [17, 8, 24],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 320,
+        "name": "Ghost Town",
+        "expansions": [14],
+        "types": [17, 8],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 321,
+        "name": "Goat",
+        "expansions": [14],
+        "types": [27, 12],
+        "isKingdomCard": false,
+        "cost": 2
+    },
+    {
+        "id": 322,
+        "name": "Greed",
+        "expansions": [14],
+        "types": [13],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 323,
+        "name": "Guardian",
+        "expansions": [14],
+        "types": [17, 8],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 324,
+        "name": "Haunted Mirror",
+        "expansions": [14],
+        "types": [27, 12],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 325,
+        "name": "Haunting",
+        "expansions": [14],
+        "types": [13],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 326,
+        "name": "Idol",
+        "expansions": [14],
+        "types": [27, 3, 10],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 327,
+        "name": "Imp",
+        "expansions": [14],
+        "types": [1, 24],
+        "isKingdomCard": false,
+        "cost": 2
+    },
+    {
+        "id": 328,
+        "name": "Leprechaun",
+        "expansions": [14],
+        "types": [1, 7],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 329,
+        "name": "Locusts",
+        "expansions": [14],
+        "types": [13],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 330,
+        "name": "Lost in the Woods",
+        "expansions": [14],
+        "types": [25],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 331,
+        "name": "Lucky Coin",
+        "expansions": [14],
+        "types": [27, 12],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 332,
+        "name": "Magic Lamp",
+        "expansions": [14],
+        "types": [27, 12],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 333,
+        "name": "Miserable - Twice Miserable",
+        "expansions": [14],
+        "types": [25],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 334,
+        "name": "Misery",
+        "expansions": [14],
+        "types": [13],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 335,
+        "name": "Monastery",
+        "expansions": [14],
+        "types": [17],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 336,
+        "name": "Necromancer",
+        "expansions": [14],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 337,
+        "name": "Night Watchman",
+        "expansions": [14],
+        "types": [17],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 338,
+        "name": "Pasture",
+        "expansions": [14],
+        "types": [27, 28, 12],
+        "isKingdomCard": false,
+        "cost": 2
+    },
+    {
+        "id": 339,
+        "name": "Pixie",
+        "expansions": [14],
+        "types": [1, 10],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 340,
+        "name": "Plague",
+        "expansions": [14],
+        "types": [13],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 341,
+        "name": "Pooka",
+        "expansions": [14],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 342,
+        "name": "Pouch",
+        "expansions": [14],
+        "types": [27, 12],
+        "isKingdomCard": false,
+        "cost": 2
+    },
+    {
+        "id": 343,
+        "name": "Poverty",
+        "expansions": [14],
+        "types": [13],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 344,
+        "name": "Raider",
+        "expansions": [14],
+        "types": [17, 8, 3],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 345,
+        "name": "Sacred Grove",
+        "expansions": [14],
+        "types": [1, 10],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 346,
+        "name": "Secret Cave",
+        "expansions": [14],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 347,
+        "name": "Shepherd",
+        "expansions": [14],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 348,
+        "name": "Skulk",
+        "expansions": [14],
+        "types": [1, 3, 7],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 349,
+        "name": "The Earth's Gift",
+        "expansions": [14],
+        "types": [4],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 350,
+        "name": "The Field's Gift",
+        "expansions": [14],
+        "types": [4],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 351,
+        "name": "The Flame's Gift",
+        "expansions": [14],
+        "types": [4],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 352,
+        "name": "The Forest's Gift",
+        "expansions": [14],
+        "types": [4],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 353,
+        "name": "The Moon's Gift",
+        "expansions": [14],
+        "types": [4],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 354,
+        "name": "The Mountain's Gift",
+        "expansions": [14],
+        "types": [4],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 355,
+        "name": "The River's Gift.",
+        "expansions": [14],
+        "types": [4],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 356,
+        "name": "The Sea's Gift",
+        "expansions": [14],
+        "types": [4],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 357,
+        "name": "The Sky's Gift",
+        "expansions": [14],
+        "types": [4],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 358,
+        "name": "The Sun's Gift",
+        "expansions": [14],
+        "types": [4],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 359,
+        "name": "The Swamp's Gift",
+        "expansions": [14],
+        "types": [4],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 360,
+        "name": "The Wind's Gift",
+        "expansions": [14],
+        "types": [4],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 361,
+        "name": "Tormentor",
+        "expansions": [14],
+        "types": [1, 3, 7],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 362,
+        "name": "Tracker",
+        "expansions": [14],
+        "types": [1, 10],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 363,
+        "name": "Tragic Hero",
+        "expansions": [14],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 364,
+        "name": "Vampire",
+        "expansions": [14],
+        "types": [17, 3, 7],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 365,
+        "name": "War",
+        "expansions": [14],
+        "types": [13],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 366,
+        "name": "Werewolf",
+        "expansions": [14],
+        "types": [1, 3, 17, 7],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 367,
+        "name": "Will-O'-Wisp",
+        "expansions": [14],
+        "types": [1, 24],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 368,
+        "name": "Wish",
+        "expansions": [14],
+        "types": [1],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 369,
+        "name": "Zombie Apprentice",
+        "expansions": [14],
+        "types": [1, 30],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 370,
+        "name": "Zombie Mason",
+        "expansions": [14],
+        "types": [1, 30],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 371,
+        "name": "Zombie Spy",
+        "expansions": [14],
+        "types": [1, 30],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 372,
+        "name": "Avanto",
+        "expansions": [99],
+        "types": [1],
+        "isKingdomCard": true,
+        "isPartOfSplitPile": true,
+        "cost": 5
+    },
+    {
+        "id": 373,
+        "name": "Black Market",
+        "expansions": [99],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 374,
+        "name": "Captain",
+        "expansions": [99],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 375,
+        "name": "Church",
+        "expansions": [99],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 376,
+        "name": "Dismantle",
+        "expansions": [99],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 377,
+        "name": "Envoy",
+        "expansions": [99],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 378,
+        "name": "Governor",
+        "expansions": [99],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 379,
+        "name": "Prince",
+        "expansions": [99],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 8
+    },
+    {
+        "id": 380,
+        "name": "Sauna",
+        "expansions": [99],
+        "types": [1],
+        "isKingdomCard": true,
+        "isPartOfSplitPile": true,
+        "isOnTopOfSplitPile": true,
+        "cost": 4
+    },
+    {
+        "id": 381,
+        "name": "Stash",
+        "expansions": [99],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 382,
+        "name": "Summon",
+        "expansions": [99],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 383,
+        "name": "Walled Village",
+        "expansions": [99],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 384,
+        "name": "Bank",
+        "expansions": [7],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 7
+    },
+    {
+        "id": 385,
+        "name": "Bishop",
+        "expansions": [7],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 386,
+        "name": "City",
+        "expansions": [7],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 387,
+        "name": "Contraband",
+        "expansions": [7],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 388,
+        "name": "Counting House",
+        "expansions": [7],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 389,
+        "name": "Expand",
+        "expansions": [7],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 7
+    },
+    {
+        "id": 390,
+        "name": "Forge",
+        "expansions": [7],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 7
+    },
+    {
+        "id": 391,
+        "name": "Goons",
+        "expansions": [7],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 392,
+        "name": "Grand Market",
+        "expansions": [7],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 393,
+        "name": "Hoard",
+        "expansions": [7],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 394,
+        "name": "King's Court",
+        "expansions": [7],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 7
+    },
+    {
+        "id": 395,
+        "name": "Loan",
+        "expansions": [7],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 396,
+        "name": "Mint",
+        "expansions": [7],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 397,
+        "name": "Monument",
+        "expansions": [7],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 398,
+        "name": "Mountebank",
+        "expansions": [7],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 399,
+        "name": "Peddler",
+        "expansions": [7],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 8
+    },
+    {
+        "id": 400,
+        "name": "Quarry",
+        "expansions": [7],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 401,
+        "name": "Rabble",
+        "expansions": [7],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 402,
+        "name": "Royal Seal",
+        "expansions": [7],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 403,
+        "name": "Talisman",
+        "expansions": [7],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 404,
+        "name": "Trade Route",
+        "expansions": [7],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 405,
+        "name": "Vault",
+        "expansions": [7],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 406,
+        "name": "Venture",
+        "expansions": [7],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 407,
+        "name": "Watchtower",
+        "expansions": [7],
+        "types": [1, 20],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 408,
+        "name": "Worker's Village",
+        "expansions": [7],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 409,
+        "name": "Academy",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 410,
+        "name": "Acting Troupe",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 411,
+        "name": "Barracks",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 6
+    },
+    {
+        "id": 412,
+        "name": "Border Guard",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 413,
+        "name": "Canal",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 7
+    },
+    {
+        "id": 414,
+        "name": "Capitalism",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 415,
+        "name": "Cargo Ship",
+        "expansions": [15],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 416,
+        "name": "Cathedral",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 417,
+        "name": "Citadel",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 8
+    },
+    {
+        "id": 418,
+        "name": "City Gate",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 419,
+        "name": "Crop Rotation",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 6
+    },
+    {
+        "id": 420,
+        "name": "Ducat",
+        "expansions": [15],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 421,
+        "name": "Experiment",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 422,
+        "name": "Exploration",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 423,
+        "name": "Fair",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 424,
+        "name": "Flag",
+        "expansions": [15],
+        "types": [2],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 425,
+        "name": "Flag Bearer",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 426,
+        "name": "Fleet",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 427,
+        "name": "Guildhall",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 428,
+        "name": "Hideout",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 429,
+        "name": "Horn",
+        "expansions": [15],
+        "types": [2],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 430,
+        "name": "Improve",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 431,
+        "name": "Innovation",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 6
+    },
+    {
+        "id": 432,
+        "name": "Inventor",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 433,
+        "name": "Key",
+        "expansions": [15],
+        "types": [2],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 434,
+        "name": "Lackeys",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 435,
+        "name": "Lantern",
+        "expansions": [15],
+        "types": [2],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 436,
+        "name": "Mountain Village",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 437,
+        "name": "Old Witch",
+        "expansions": [15],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 438,
+        "name": "Pageant",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 439,
+        "name": "Patron",
+        "expansions": [15],
+        "types": [1, 20],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 440,
+        "name": "Piazza",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 441,
+        "name": "Priest",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 442,
+        "name": "Recruiter",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 443,
+        "name": "Research",
+        "expansions": [15],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 444,
+        "name": "Road Network",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 445,
+        "name": "Scepter",
+        "expansions": [15],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 446,
+        "name": "Scholar",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 447,
+        "name": "Sculptor",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 448,
+        "name": "Seer",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 449,
+        "name": "Sewers",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 450,
+        "name": "Silk Merchant",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 451,
+        "name": "Silos",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 452,
+        "name": "Sinister Plot",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 453,
+        "name": "Spices",
+        "expansions": [15],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 454,
+        "name": "Star Chart",
+        "expansions": [15],
+        "types": [19],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 455,
+        "name": "Swashbuckler",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 456,
+        "name": "Treasure Chest",
+        "expansions": [15],
+        "types": [2],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 457,
+        "name": "Treasurer",
+        "expansions": [15],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 458,
+        "name": "Villain",
+        "expansions": [15],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 459,
+        "name": "Ambassador",
+        "expansions": [5],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 460,
+        "name": "Bazaar",
+        "expansions": [5],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 461,
+        "name": "Caravan",
+        "expansions": [5],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 462,
+        "name": "Cutpurse",
+        "expansions": [5],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 463,
+        "name": "Embargo",
+        "expansions": [5],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 464,
+        "name": "Explorer",
+        "expansions": [5],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 465,
+        "name": "Fishing Village",
+        "expansions": [5],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 466,
+        "name": "Ghost Ship",
+        "expansions": [5],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 467,
+        "name": "Haven",
+        "expansions": [5],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 468,
+        "name": "Island",
+        "expansions": [5],
+        "types": [1, 28],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 469,
+        "name": "Lighthouse",
+        "expansions": [5],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 470,
+        "name": "Lookout",
+        "expansions": [5],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 471,
+        "name": "Merchant Ship",
+        "expansions": [5],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 472,
+        "name": "Native Village",
+        "expansions": [5],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 473,
+        "name": "Navigator",
+        "expansions": [5],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 474,
+        "name": "Outpost",
+        "expansions": [5],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 475,
+        "name": "Pearl Diver",
+        "expansions": [5],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 476,
+        "name": "Pirate Ship",
+        "expansions": [5],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 477,
+        "name": "Salvager",
+        "expansions": [5],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 478,
+        "name": "Sea Hag",
+        "expansions": [5],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 479,
+        "name": "Smugglers",
+        "expansions": [5],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 480,
+        "name": "Tactician",
+        "expansions": [5],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 481,
+        "name": "Treasure Map",
+        "expansions": [5],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 482,
+        "name": "Treasury",
+        "expansions": [5],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 483,
+        "name": "Warehouse",
+        "expansions": [5],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 484,
+        "name": "Wharf",
+        "expansions": [5],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 485,
+        "name": "Black Cat",
+        "expansions": [16],
+        "types": [1, 3, 20],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 486,
+        "name": "Sleigh",
+        "expansions": [16],
+        "types": [1, 20],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 487,
+        "name": "Supplies",
+        "expansions": [16],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 2
+    },
+    {
+        "id": 488,
+        "name": "Camel Train",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 489,
+        "name": "Goatheard",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 490,
+        "name": "Scrap",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 491,
+        "name": "Sheepdog",
+        "expansions": [16],
+        "types": [1, 20],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 492,
+        "name": "Snowy Village",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 493,
+        "name": "Stockpile",
+        "expansions": [16],
+        "types": [27],
+        "isKingdomCard": true,
+        "cost": 3
+    },
+    {
+        "id": 494,
+        "name": "Bounty Hunter",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 495,
+        "name": "Cardinal",
+        "expansions": [16],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 496,
+        "name": "Cavalry",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 497,
+        "name": "Groom",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 498,
+        "name": "Hostelry",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 499,
+        "name": "Village Green",
+        "expansions": [16],
+        "types": [1, 8, 20],
+        "isKingdomCard": true,
+        "cost": 4
+    },
+    {
+        "id": 500,
+        "name": "Barge",
+        "expansions": [16],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 501,
+        "name": "Coven",
+        "expansions": [16],
+        "types": [1, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 502,
+        "name": "Displace",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 503,
+        "name": "Falconer",
+        "expansions": [16],
+        "types": [1, 20],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 504,
+        "name": "GateKeeper",
+        "expansions": [16],
+        "types": [1, 8, 3],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 505,
+        "name": "Hunting Lodge",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 506,
+        "name": "Kiln",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 507,
+        "name": "Livery",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 508,
+        "name": "Mastermind",
+        "expansions": [16],
+        "types": [1, 8],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 509,
+        "name": "Paddock",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 510,
+        "name": "Sanctuary",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 511,
+        "name": "Fisherman",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 5
+    },
+    {
+        "id": 512,
+        "name": "Destrier",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 513,
+        "name": "Wayfarer",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 6
+    },
+    {
+        "id": 514,
+        "name": "Animal Fair",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": true,
+        "cost": 7
+    },
+    {
+        "id": 515,
+        "name": "Horse",
+        "expansions": [16],
+        "types": [1],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 516,
+        "name": "Way of the Butterfly",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 517,
+        "name": "Way of the Camel",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 518,
+        "name": "Way of the Chameleon",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 519,
+        "name": "Way of the Frog",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 520,
+        "name": "Way of the Goat",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 521,
+        "name": "Way of the Horse",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 522,
+        "name": "Way of the Mole",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 523,
+        "name": "Way of the Monkey",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 524,
+        "name": "Way of the Mouse",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 525,
+        "name": "Way of the Mule",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 526,
+        "name": "Way of the Otter",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 527,
+        "name": "Way of the Owl",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 528,
+        "name": "Way of the Ox",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 529,
+        "name": "Way of the Pig",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 530,
+        "name": "Way of the Rat",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 531,
+        "name": "Way of the Seal",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 532,
+        "name": "Way of the Sheep",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 533,
+        "name": "Way of the Squirrel",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 534,
+        "name": "Way of the Turtle",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 535,
+        "name": "Way of the Worm",
+        "expansions": [16],
+        "types": [29],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 536,
+        "name": "Delay",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 537,
+        "name": "Desperation",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 0
+    },
+    {
+        "id": 538,
+        "name": "Gamble",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 2
+    },
+    {
+        "id": 539,
+        "name": "Pursue",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 2
+    },
+    {
+        "id": 540,
+        "name": "Ride",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 2
+    },
+    {
+        "id": 541,
+        "name": "Toil",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 2
+    },
+    {
+        "id": 542,
+        "name": "Enhance",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 543,
+        "name": "March",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 544,
+        "name": "Transport",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 3
+    },
+    {
+        "id": 545,
+        "name": "Banish",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 546,
+        "name": "Bargain",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 547,
+        "name": "Invest",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 548,
+        "name": "Seize the Day",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 4
+    },
+    {
+        "id": 549,
+        "name": "Commerce",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 550,
+        "name": "Demand",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 551,
+        "name": "Stampede",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 5
+    },
+    {
+        "id": 552,
+        "name": "Reap",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 7
+    },
+    {
+        "id": 553,
+        "name": "Enclave",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 8
+    },
+    {
+        "id": 554,
+        "name": "Alliance",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 10
+    },
+    {
+        "id": 555,
+        "name": "Populate",
+        "expansions": [16],
+        "types": [9],
+        "isKingdomCard": false,
+        "cost": 10
+    }
+]
