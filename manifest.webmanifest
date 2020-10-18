@@ -3,13 +3,13 @@
     "short_name": "Dominionizer",
     "icons": [
         {
-            "src": "/assets/logo/favicon-192x192.png",
+            "src": "assets/logo/favicon-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "/assets/logo/favicon-512x512.png",
+            "src": "assets/logo/favicon-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
