@@ -1,0 +1,123 @@
+{
+  "configVersion": 1,
+  "timestamp": 1606861339266,
+  "index": "/dominionizer/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/dominionizer/MaterialIcons-Regular.4674f8ded773cb03e824.eot",
+        "/dominionizer/MaterialIcons-Regular.5e7382c63da0098d634a.ttf",
+        "/dominionizer/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff",
+        "/dominionizer/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2",
+        "/dominionizer/favicon.ico",
+        "/dominionizer/index.html",
+        "/dominionizer/main-es2015.bc8211fe7917b658eabb.js",
+        "/dominionizer/main-es5.bc8211fe7917b658eabb.js",
+        "/dominionizer/manifest.webmanifest",
+        "/dominionizer/polyfills-es2015.97852986c1773db16229.js",
+        "/dominionizer/polyfills-es5.6a2c81a6b92028cf882c.js",
+        "/dominionizer/runtime-es2015.66c79b9d36e7169e27b0.js",
+        "/dominionizer/runtime-es5.66c79b9d36e7169e27b0.js",
+        "/dominionizer/styles.e21f46295fd6f1c19134.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/dominionizer/assets/data/cards.json",
+        "/dominionizer/assets/data/expansions.json",
+        "/dominionizer/assets/icons/expansion_adventures.png",
+        "/dominionizer/assets/icons/expansion_alchemy.png",
+        "/dominionizer/assets/icons/expansion_cornucopia.png",
+        "/dominionizer/assets/icons/expansion_dark_ages.png",
+        "/dominionizer/assets/icons/expansion_dominion.png",
+        "/dominionizer/assets/icons/expansion_empires.png",
+        "/dominionizer/assets/icons/expansion_guilds.png",
+        "/dominionizer/assets/icons/expansion_hinterlands.png",
+        "/dominionizer/assets/icons/expansion_intrigue.png",
+        "/dominionizer/assets/icons/expansion_menagerie.png",
+        "/dominionizer/assets/icons/expansion_nocturne.png",
+        "/dominionizer/assets/icons/expansion_promo.png",
+        "/dominionizer/assets/icons/expansion_prosperity.png",
+        "/dominionizer/assets/icons/expansion_renaissance.png",
+        "/dominionizer/assets/icons/expansion_seaside.png",
+        "/dominionizer/assets/logo/favicon-180x180.png",
+        "/dominionizer/assets/logo/favicon-192x192.png",
+        "/dominionizer/assets/logo/favicon-512x512.png",
+        "/dominionizer/assets/logo/logo-short.svg",
+        "/dominionizer/assets/logo/logo.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/dominionizer/MaterialIcons-Regular.4674f8ded773cb03e824.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "/dominionizer/MaterialIcons-Regular.5e7382c63da0098d634a.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/dominionizer/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/dominionizer/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/dominionizer/assets/data/cards.json": "378d74c50414ac25dd02548bca625b7607bb600d",
+    "/dominionizer/assets/data/expansions.json": "82be0b54033c14ea875a01c6ae48a694c5ba6ceb",
+    "/dominionizer/assets/icons/expansion_adventures.png": "d77d0475ff4208421de321470e4ae2a1ec33d011",
+    "/dominionizer/assets/icons/expansion_alchemy.png": "7c681c4e4cc3470740453ef57d3cdad43fc763ad",
+    "/dominionizer/assets/icons/expansion_cornucopia.png": "41f46f9d3f96c120c43af09dcf01590ea9f80846",
+    "/dominionizer/assets/icons/expansion_dark_ages.png": "12bad62271b0702ba1731e515c1f993a0f15cb18",
+    "/dominionizer/assets/icons/expansion_dominion.png": "90741a249795ff582a5ae1d24afd408f048ac75c",
+    "/dominionizer/assets/icons/expansion_empires.png": "4791a85a46e4b4d8119369d5231431597ac32cf0",
+    "/dominionizer/assets/icons/expansion_guilds.png": "6d06223d395b7f7dc1fec1d47b68d7b5c863dec2",
+    "/dominionizer/assets/icons/expansion_hinterlands.png": "19dfcabe3ac129a8187c5fe7f7d3ed0bb128add4",
+    "/dominionizer/assets/icons/expansion_intrigue.png": "d63ceb027ca3e45de7d30b9df6e0caff18cea3ef",
+    "/dominionizer/assets/icons/expansion_menagerie.png": "0cd429388c2b921c0a7cd4dfa8d9b326527acb80",
+    "/dominionizer/assets/icons/expansion_nocturne.png": "62e73fea394eee8ad751e2f5edabe3d6bdd206a5",
+    "/dominionizer/assets/icons/expansion_promo.png": "d825f495acf18247aeb0b30fbeabc4bea811816c",
+    "/dominionizer/assets/icons/expansion_prosperity.png": "87aae5ef13602eff5ecbe346a58a2f6b4605eee5",
+    "/dominionizer/assets/icons/expansion_renaissance.png": "1446f3bbaead2ccb2018b75769354c54dfc8b12a",
+    "/dominionizer/assets/icons/expansion_seaside.png": "d5b0973e140b9b80aaea5f86373dfaf3e7c3eb0d",
+    "/dominionizer/assets/logo/favicon-180x180.png": "6d92d3b622f84cb89e6c49777f0e314321b36516",
+    "/dominionizer/assets/logo/favicon-192x192.png": "1bcb2393717dacfe71aaefeab30aabc22cc847e8",
+    "/dominionizer/assets/logo/favicon-512x512.png": "c43fe27c1a8498257f5571dffe1b3061ade7fd1b",
+    "/dominionizer/assets/logo/logo-short.svg": "09146d02dda71afb040658af366845c64582d5c7",
+    "/dominionizer/assets/logo/logo.svg": "77663b4a8fb64708ed59ad73a6644c1dd447357b",
+    "/dominionizer/favicon.ico": "4adc7caa2850b0032d33457b7991f0db47a6ccc5",
+    "/dominionizer/index.html": "609aed8938d2a2d4721cf2d0369a115e0895d44c",
+    "/dominionizer/main-es2015.bc8211fe7917b658eabb.js": "ab051363068c0126f5f60079a6d7eef8361fec58",
+    "/dominionizer/main-es5.bc8211fe7917b658eabb.js": "f94a45868b302c707d4a534e365cb941cd51c1f3",
+    "/dominionizer/manifest.webmanifest": "d508b2afe4ea36b5bf5989ebdf2a3b0b35da644f",
+    "/dominionizer/polyfills-es2015.97852986c1773db16229.js": "4911a412e27139296e18ddd53a6f013e5e7be104",
+    "/dominionizer/polyfills-es5.6a2c81a6b92028cf882c.js": "88a064cde939e19e796cda363433ea66f6ae4971",
+    "/dominionizer/runtime-es2015.66c79b9d36e7169e27b0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/dominionizer/runtime-es5.66c79b9d36e7169e27b0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/dominionizer/styles.e21f46295fd6f1c19134.css": "48cb41c1fed1af56e49bf4e90c84414c348fe285"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

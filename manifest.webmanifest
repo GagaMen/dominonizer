@@ -1,6 +1,11 @@
 {
     "name": "Dominionizer",
     "short_name": "Dominionizer",
+    "theme_color": "#dad9bd",
+    "background_color": "#dad9bd",
+    "display": "standalone",
+    "scope": "./",
+    "start_url": "./",
     "icons": [
         {
             "src": "assets/logo/favicon-192x192.png",
@@ -14,9 +19,5 @@
             "type": "image/png",
             "purpose": "maskable"
         }
-    ],
-    "theme_color": "#dad9bd",
-    "background_color": "#dad9bd",
-    "start_url": "/",
-    "display": "standalone"
+    ]
 }

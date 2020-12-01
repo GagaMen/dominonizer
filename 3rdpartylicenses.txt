@@ -91,6 +91,9 @@ MIT
 @angular/router
 MIT
 
+@angular/service-worker
+MIT
+
 complex.js
 MIT OR GPL-2.0
 MIT License
