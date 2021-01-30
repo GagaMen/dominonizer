@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1611957271324,
+  "timestamp": 1611966213650,
   "index": "/dominionizer/index.html",
   "assetGroups": [
     {
@@ -17,11 +17,11 @@
         "/dominionizer/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2",
         "/dominionizer/favicon.ico",
         "/dominionizer/index.html",
-        "/dominionizer/main-es2015.dd9fc40a7244959459b8.js",
-        "/dominionizer/main-es5.dd9fc40a7244959459b8.js",
+        "/dominionizer/main-es2015.f4e3e05021d7614ca810.js",
+        "/dominionizer/main-es5.f4e3e05021d7614ca810.js",
         "/dominionizer/manifest.webmanifest",
-        "/dominionizer/polyfills-es2015.97852986c1773db16229.js",
-        "/dominionizer/polyfills-es5.6a2c81a6b92028cf882c.js",
+        "/dominionizer/polyfills-es2015.4e8b4d28d79c397b5078.js",
+        "/dominionizer/polyfills-es5.3776c1784c91dc7f318f.js",
         "/dominionizer/runtime-es2015.66c79b9d36e7169e27b0.js",
         "/dominionizer/runtime-es5.66c79b9d36e7169e27b0.js",
         "/dominionizer/styles.e21f46295fd6f1c19134.css"
@@ -91,12 +91,12 @@
     "/dominionizer/assets/logo/logo-short.svg": "09146d02dda71afb040658af366845c64582d5c7",
     "/dominionizer/assets/logo/logo.svg": "77663b4a8fb64708ed59ad73a6644c1dd447357b",
     "/dominionizer/favicon.ico": "4adc7caa2850b0032d33457b7991f0db47a6ccc5",
-    "/dominionizer/index.html": "8a68278ef33ce150e185aa1dd34c08d5b71637af",
-    "/dominionizer/main-es2015.dd9fc40a7244959459b8.js": "b01b8b63eb01738ba2e5dd08095ca8152b0f23b3",
-    "/dominionizer/main-es5.dd9fc40a7244959459b8.js": "a816b76d66162c6d0a365e0dc275ec44703b9b05",
+    "/dominionizer/index.html": "139b067e63baf9df30b9b97525283b40b587e10a",
+    "/dominionizer/main-es2015.f4e3e05021d7614ca810.js": "668d22b1ca52c26bbcc7be11c7737bc5b9d3d15e",
+    "/dominionizer/main-es5.f4e3e05021d7614ca810.js": "3e1cde33ce5ee9e9d0d5af94e000b638de99a15d",
     "/dominionizer/manifest.webmanifest": "d508b2afe4ea36b5bf5989ebdf2a3b0b35da644f",
-    "/dominionizer/polyfills-es2015.97852986c1773db16229.js": "4911a412e27139296e18ddd53a6f013e5e7be104",
-    "/dominionizer/polyfills-es5.6a2c81a6b92028cf882c.js": "88a064cde939e19e796cda363433ea66f6ae4971",
+    "/dominionizer/polyfills-es2015.4e8b4d28d79c397b5078.js": "cad3129c71535baaab25ac06d8429734959b0b3f",
+    "/dominionizer/polyfills-es5.3776c1784c91dc7f318f.js": "f266e9f06ab671a484dd65dfc3ca1a03a7109c24",
     "/dominionizer/runtime-es2015.66c79b9d36e7169e27b0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/dominionizer/runtime-es5.66c79b9d36e7169e27b0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/dominionizer/styles.e21f46295fd6f1c19134.css": "48cb41c1fed1af56e49bf4e90c84414c348fe285"
