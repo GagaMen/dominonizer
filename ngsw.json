@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612098754104,
+  "timestamp": 1612139978736,
   "index": "/dominionizer/index.html",
   "assetGroups": [
     {
@@ -17,14 +17,14 @@
         "/dominionizer/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2",
         "/dominionizer/favicon.ico",
         "/dominionizer/index.html",
-        "/dominionizer/main-es2015.a3ffb5b685f6545ce9bd.js",
-        "/dominionizer/main-es5.a3ffb5b685f6545ce9bd.js",
+        "/dominionizer/main-es2015.f7d4fcc555135de705af.js",
+        "/dominionizer/main-es5.f7d4fcc555135de705af.js",
         "/dominionizer/manifest.webmanifest",
         "/dominionizer/polyfills-es2015.4e8b4d28d79c397b5078.js",
         "/dominionizer/polyfills-es5.3776c1784c91dc7f318f.js",
         "/dominionizer/runtime-es2015.66c79b9d36e7169e27b0.js",
         "/dominionizer/runtime-es5.66c79b9d36e7169e27b0.js",
-        "/dominionizer/styles.faf1fa8bcde7b69f005e.css"
+        "/dominionizer/styles.34e69b0e2235e47dbe15.css"
       ],
       "patterns": []
     },
@@ -91,15 +91,15 @@
     "/dominionizer/assets/logo/logo-short.svg": "09146d02dda71afb040658af366845c64582d5c7",
     "/dominionizer/assets/logo/logo.svg": "77663b4a8fb64708ed59ad73a6644c1dd447357b",
     "/dominionizer/favicon.ico": "4adc7caa2850b0032d33457b7991f0db47a6ccc5",
-    "/dominionizer/index.html": "3f2b2728a7c2a6e22852fb1d6fd950c59c0792b3",
-    "/dominionizer/main-es2015.a3ffb5b685f6545ce9bd.js": "3588e690e592a2ea0fdc831dbbfccfb0df23d639",
-    "/dominionizer/main-es5.a3ffb5b685f6545ce9bd.js": "47f1ec55d704bd062bd13e675237aae91afba79d",
+    "/dominionizer/index.html": "9cb37e1a292f1df435c3469f0fae5a4121cae169",
+    "/dominionizer/main-es2015.f7d4fcc555135de705af.js": "178cfb28f5dd2eef937f13a4953f6dae819af105",
+    "/dominionizer/main-es5.f7d4fcc555135de705af.js": "16853007da435657ccffab086487bc44fcc90e57",
     "/dominionizer/manifest.webmanifest": "d508b2afe4ea36b5bf5989ebdf2a3b0b35da644f",
     "/dominionizer/polyfills-es2015.4e8b4d28d79c397b5078.js": "cad3129c71535baaab25ac06d8429734959b0b3f",
     "/dominionizer/polyfills-es5.3776c1784c91dc7f318f.js": "f266e9f06ab671a484dd65dfc3ca1a03a7109c24",
     "/dominionizer/runtime-es2015.66c79b9d36e7169e27b0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/dominionizer/runtime-es5.66c79b9d36e7169e27b0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/dominionizer/styles.faf1fa8bcde7b69f005e.css": "4bb494f350ad2d10429a4f453415abcf2ad08876"
+    "/dominionizer/styles.34e69b0e2235e47dbe15.css": "6bb102ac47ac139e7f9a559b5290259357339f93"
   },
   "navigationUrls": [
     {
